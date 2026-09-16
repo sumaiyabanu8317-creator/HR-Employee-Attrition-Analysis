@@ -32,6 +32,6 @@ The analysis helps identify patterns in employee attrition and provides data-dri
 
 ## 📁 Project File
 
-The complete Excel project is available in this repository:
+The complete Excel project is available here:
 
-**HR_Analytics_Employee_Attrition_Project.xlsx**
+[📊 Download/View Excel Project](HR_Analytics_Employee_Attrition_Project.xlsx)
